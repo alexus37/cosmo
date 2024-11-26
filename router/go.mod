@@ -144,7 +144,6 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240102182953-50ed04b92917 // indirect
 	gopkg.in/cenkalti/backoff.v1 v1.1.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
-	nhooyr.io/websocket v1.8.11 // indirect
 )
 
-//replace github.com/wundergraph/graphql-go-tools/v2 => ../../graphql-go-tools/v2
+replace github.com/wundergraph/graphql-go-tools/v2 => github.com/alexus37/graphql-go-tools/v2 v2.0.0-20241126140811-d2971d939077
