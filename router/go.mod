@@ -146,4 +146,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/wundergraph/graphql-go-tools/v2 => github.com/alexus37/graphql-go-tools/v2 v2.0.0-20241126140811-d2971d939077
+replace github.com/wundergraph/graphql-go-tools/v2 => github.com/alexus37/graphql-go-tools/v2 v2.0.0-20241202104620-d56b0e706a6c
