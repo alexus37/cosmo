@@ -9,8 +9,8 @@ github.com/MicahParks/keyfunc/v2 v2.1.0 h1:6ZXKb9Rp6qp1bDbJefnG7cTH8yMN1IC/4nf+G
 github.com/MicahParks/keyfunc/v2 v2.1.0/go.mod h1:rW42fi+xgLJ2FRRXAfNx9ZA8WpD4OeE/yHVMteCkw9k=
 github.com/agnivade/levenshtein v1.1.1 h1:QY8M92nrzkmr798gCo3kmMyqXFzdQVpxLlGPRBij0P8=
 github.com/agnivade/levenshtein v1.1.1/go.mod h1:veldBMzWxcCG2ZvUTKD2kJNRdCk5hVbJomOvKkmgYbo=
-github.com/alexus37/graphql-go-tools/v2 v2.0.0-20241202104620-d56b0e706a6c h1:2VSuRFCcBZY2j59ydQNKUHAf+L8eCx7ZMV+sQHsYFt8=
-github.com/alexus37/graphql-go-tools/v2 v2.0.0-20241202104620-d56b0e706a6c/go.mod h1:2FThDhi9IFpRv/l/L4BQJM2+Az8TYdq7tFycTPGOuFY=
+github.com/alexus37/graphql-go-tools/v2 v2.0.0-20241202134235-98363b4ecf74 h1:gd9TVG6RuWMvF8/YjEn9Gabt8ouWUuhMVgphaznMLvo=
+github.com/alexus37/graphql-go-tools/v2 v2.0.0-20241202134235-98363b4ecf74/go.mod h1:2FThDhi9IFpRv/l/L4BQJM2+Az8TYdq7tFycTPGOuFY=
 github.com/alitto/pond v1.9.2 h1:9Qb75z/scEZVCoSU+osVmQ0I0JOeLfdTDafrbcJ8CLs=
 github.com/alitto/pond v1.9.2/go.mod h1:xQn3P/sHTYcU/1BR3i86IGIrilcrGC2LiS+E2+CJWsI=
 github.com/andybalholm/brotli v1.1.0 h1:eLKJA0d02Lf0mVpIDgYnqXcUn0GqVmEFny3VuID1U3M=
